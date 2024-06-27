@@ -24,3 +24,5 @@ conf/db.py
 1 requirements 
 
 Dockerfile 
+
+docker-compose.yaml 
